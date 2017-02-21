@@ -6,7 +6,7 @@ return {
 	description = "Shamsi-Miladi Date",
 	usage = "date : تاريخ شمسی - میلادی",
 	patterns = {
-		'^[!#/]([Dd][Aa][Tt][Ee]) (%d*)$',
+		"^[Dd]ate$",
 		}, 
 	run = run 
 }
